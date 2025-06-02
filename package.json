@@ -1,0 +1,22 @@
+{
+  "name": "movievibe",
+  "version": "1.0.0",
+  "description": "Movie and Cast Search App using TMDB and Appwrite",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.7",
+    "appwrite": "^18.1.1",
+    "react-use": "^17.6.0",
+    "tailwindcss": "^4.1.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
